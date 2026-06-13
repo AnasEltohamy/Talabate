@@ -7,20 +7,24 @@
       "RelativeMoniker": "D:0:0:{BFE5F43D-1E2F-7FDD-6613-3C3DBE6F9B8B}|E-Commerce.Web\\E-Commerce.Web.csproj|solutionrelative:e-commerce.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A707AC54-CB8D-F176-7C81-D3D11F91A2FE}|Infrastructure\\Persistence\\Persistence.csproj|d:\\githubproject\\e-commerce app\\infrastructure\\persistence\\data\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A707AC54-CB8D-F176-7C81-D3D11F91A2FE}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\data\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A707AC54-CB8D-F176-7C81-D3D11F91A2FE}|Infrastructure\\Persistence\\Persistence.csproj|d:\\githubproject\\e-commerce app\\infrastructure\\persistence\\dataseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A707AC54-CB8D-F176-7C81-D3D11F91A2FE}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\dataseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A707AC54-CB8D-F176-7C81-D3D11F91A2FE}|Infrastructure\\Persistence\\Persistence.csproj|d:\\githubproject\\e-commerce app\\infrastructure\\persistence\\data\\models\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A707AC54-CB8D-F176-7C81-D3D11F91A2FE}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\data\\models\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E11A5FF1-BF65-1F13-2585-D1F8F4C0C583}|Core\\DomainLayer\\DomainLayer.csproj|d:\\githubproject\\e-commerce app\\core\\domainlayer\\contract\\idataseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E11A5FF1-BF65-1F13-2585-D1F8F4C0C583}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\contract\\idataseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A707AC54-CB8D-F176-7C81-D3D11F91A2FE}|Infrastructure\\Persistence\\Persistence.csproj|d:\\githubproject\\e-commerce app\\infrastructure\\persistence\\data\\models\\productbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A707AC54-CB8D-F176-7C81-D3D11F91A2FE}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\data\\models\\productbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E11A5FF1-BF65-1F13-2585-D1F8F4C0C583}|Core\\DomainLayer\\DomainLayer.csproj|d:\\githubproject\\e-commerce app\\core\\domainlayer\\models\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E11A5FF1-BF65-1F13-2585-D1F8F4C0C583}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\models\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A707AC54-CB8D-F176-7C81-D3D11F91A2FE}|Infrastructure\\Persistence\\Persistence.csproj|d:\\githubproject\\e-commerce app\\infrastructure\\persistence\\data\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A707AC54-CB8D-F176-7C81-D3D11F91A2FE}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\data\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A707AC54-CB8D-F176-7C81-D3D11F91A2FE}|Infrastructure\\Persistence\\Persistence.csproj|d:\\githubproject\\e-commerce app\\infrastructure\\persistence\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A707AC54-CB8D-F176-7C81-D3D11F91A2FE}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A707AC54-CB8D-F176-7C81-D3D11F91A2FE}|Infrastructure\\Persistence\\Persistence.csproj|d:\\githubproject\\e-commerce app\\infrastructure\\persistence\\data\\configrations\\productconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A707AC54-CB8D-F176-7C81-D3D11F91A2FE}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\data\\configrations\\productconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +34,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductType.cs",
+              "DocumentMoniker": "D:\\GitHubProject\\E-Commerce App\\Core\\DomainLayer\\Models\\ProductType.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Models\\ProductType.cs",
+              "ToolTip": "D:\\GitHubProject\\E-Commerce App\\Core\\DomainLayer\\Models\\ProductType.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Models\\ProductType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T17:01:35.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataSeeding.cs",
+              "DocumentMoniker": "D:\\GitHubProject\\E-Commerce App\\Infrastructure\\Persistence\\DataSeeding.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\DataSeeding.cs",
+              "ToolTip": "D:\\GitHubProject\\E-Commerce App\\Infrastructure\\Persistence\\DataSeeding.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\DataSeeding.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwDwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T16:40:45.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDataSeeding.cs",
+              "DocumentMoniker": "D:\\GitHubProject\\E-Commerce App\\Core\\DomainLayer\\Contract\\IDataSeeding.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Contract\\IDataSeeding.cs",
+              "ToolTip": "D:\\GitHubProject\\E-Commerce App\\Core\\DomainLayer\\Contract\\IDataSeeding.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Contract\\IDataSeeding.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T16:37:51.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductConfig.cs",
+              "DocumentMoniker": "D:\\GitHubProject\\E-Commerce App\\Infrastructure\\Persistence\\Data\\Configrations\\ProductConfig.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Data\\Configrations\\ProductConfig.cs",
+              "ToolTip": "D:\\GitHubProject\\E-Commerce App\\Infrastructure\\Persistence\\Data\\Configrations\\ProductConfig.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Data\\Configrations\\ProductConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T16:33:24.176Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -44,59 +104,23 @@
               "RelativeDocumentMoniker": "E-Commerce.Web\\Program.cs",
               "ToolTip": "D:\\GitHubProject\\E-Commerce App\\E-Commerce.Web\\Program.cs",
               "RelativeToolTip": "E-Commerce.Web\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowDcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-09T18:49:36.92Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "StoreContext.cs",
-              "DocumentMoniker": "D:\\GitHubProject\\E-Commerce App\\Infrastructure\\Persistence\\Data\\StoreContext.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Data\\StoreContext.cs",
-              "ToolTip": "D:\\GitHubProject\\E-Commerce App\\Infrastructure\\Persistence\\Data\\StoreContext.cs",
-              "RelativeToolTip": "Infrastructure\\Persistence\\Data\\StoreContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\GitHubProject\\E-Commerce App\\Infrastructure\\Persistence\\StoreContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\StoreContext.cs",
+              "ToolTip": "D:\\GitHubProject\\E-Commerce App\\Infrastructure\\Persistence\\StoreContext.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\StoreContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBMAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-09T18:38:20.688Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductType.cs",
-              "DocumentMoniker": "D:\\GitHubProject\\E-Commerce App\\Infrastructure\\Persistence\\Data\\Models\\ProductType.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Data\\Models\\ProductType.cs",
-              "ToolTip": "D:\\GitHubProject\\E-Commerce App\\Infrastructure\\Persistence\\Data\\Models\\ProductType.cs",
-              "RelativeToolTip": "Infrastructure\\Persistence\\Data\\Models\\ProductType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-09T18:34:39.655Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductBrand.cs",
-              "DocumentMoniker": "D:\\GitHubProject\\E-Commerce App\\Infrastructure\\Persistence\\Data\\Models\\ProductBrand.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Data\\Models\\ProductBrand.cs",
-              "ToolTip": "D:\\GitHubProject\\E-Commerce App\\Infrastructure\\Persistence\\Data\\Models\\ProductBrand.cs",
-              "RelativeToolTip": "Infrastructure\\Persistence\\Data\\Models\\ProductBrand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-09T18:34:10.163Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\GitHubProject\\E-Commerce App\\Infrastructure\\Persistence\\Data\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Data\\Models\\Product.cs",
-              "ToolTip": "D:\\GitHubProject\\E-Commerce App\\Infrastructure\\Persistence\\Data\\Models\\Product.cs",
-              "RelativeToolTip": "Infrastructure\\Persistence\\Data\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-09T18:31:40.067Z"
             }
           ]
         }

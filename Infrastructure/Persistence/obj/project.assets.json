@@ -982,6 +982,16 @@
             "rid": "win"
           }
         }
+      },
+      "DomainLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/DomainLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DomainLayer.dll": {}
+        }
       }
     }
   },
@@ -2703,10 +2713,16 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "DomainLayer/1.0.0": {
+      "type": "project",
+      "path": "../../Core/DomainLayer/DomainLayer.csproj",
+      "msbuildProject": "../../Core/DomainLayer/DomainLayer.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "DomainLayer >= 1.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.28"
     ]
   },
@@ -2742,7 +2758,11 @@
         "net8.0": {
           "framework": "net8.0",
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\GitHubProject\\E-Commerce App\\Core\\DomainLayer\\DomainLayer.csproj": {
+              "projectPath": "D:\\GitHubProject\\E-Commerce App\\Core\\DomainLayer\\DomainLayer.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

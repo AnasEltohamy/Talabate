@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Persistence.Data.Models
 {
-    internal class Product: BaseEntity<int>
+    public class Product: BaseEntity<int>
     {
         public string? Name { get; set; }
         public string? Description { get; set; }

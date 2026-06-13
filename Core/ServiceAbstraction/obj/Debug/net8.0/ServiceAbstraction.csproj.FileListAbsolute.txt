@@ -9,3 +9,4 @@ D:\GitHubProject\E-Commerce App\Core\ServiceAbstraction\obj\Debug\net8.0\Service
 D:\GitHubProject\E-Commerce App\Core\ServiceAbstraction\obj\Debug\net8.0\refint\ServiceAbstraction.dll
 D:\GitHubProject\E-Commerce App\Core\ServiceAbstraction\obj\Debug\net8.0\ServiceAbstraction.pdb
 D:\GitHubProject\E-Commerce App\Core\ServiceAbstraction\obj\Debug\net8.0\ref\ServiceAbstraction.dll
+D:\GitHubProject\E-Commerce App\Core\ServiceAbstraction\obj\Debug\net8.0\ServiceAbstraction.sourcelink.json

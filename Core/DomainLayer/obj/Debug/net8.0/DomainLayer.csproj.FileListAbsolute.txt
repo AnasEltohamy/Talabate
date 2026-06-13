@@ -9,3 +9,4 @@ D:\GitHubProject\E-Commerce App\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.dl
 D:\GitHubProject\E-Commerce App\Core\DomainLayer\obj\Debug\net8.0\refint\DomainLayer.dll
 D:\GitHubProject\E-Commerce App\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.pdb
 D:\GitHubProject\E-Commerce App\Core\DomainLayer\obj\Debug\net8.0\ref\DomainLayer.dll
+D:\GitHubProject\E-Commerce App\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.sourcelink.json

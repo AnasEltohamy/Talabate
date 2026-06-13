@@ -9,3 +9,4 @@ D:\GitHubProject\E-Commerce App\Infrastructure\Presentation\obj\Debug\net8.0\Pre
 D:\GitHubProject\E-Commerce App\Infrastructure\Presentation\obj\Debug\net8.0\refint\Presentation.dll
 D:\GitHubProject\E-Commerce App\Infrastructure\Presentation\obj\Debug\net8.0\Presentation.pdb
 D:\GitHubProject\E-Commerce App\Infrastructure\Presentation\obj\Debug\net8.0\ref\Presentation.dll
+D:\GitHubProject\E-Commerce App\Infrastructure\Presentation\obj\Debug\net8.0\Presentation.sourcelink.json

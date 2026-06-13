@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace Persistence.Data.Models
 {
-    internal class ProductBrand :BaseEntity<int>
+    public class BaseEntity<TKey>
     {
-        public string? Name { get; set; }
+        public TKey Id { get; set; }
     }
 }

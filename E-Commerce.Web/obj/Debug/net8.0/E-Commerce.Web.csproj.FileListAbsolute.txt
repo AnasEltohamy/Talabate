@@ -147,3 +147,6 @@ D:\GitHubProject\E-Commerce App\E-Commerce.Web\bin\Debug\net8.0\runtimes\win\lib
 D:\GitHubProject\E-Commerce App\E-Commerce.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 D:\GitHubProject\E-Commerce App\E-Commerce.Web\bin\Debug\net8.0\Persistence.dll
 D:\GitHubProject\E-Commerce App\E-Commerce.Web\bin\Debug\net8.0\Persistence.pdb
+D:\GitHubProject\E-Commerce App\E-Commerce.Web\obj\Debug\net8.0\E-Commerce.Web.sourcelink.json
+D:\GitHubProject\E-Commerce App\E-Commerce.Web\bin\Debug\net8.0\DomainLayer.dll
+D:\GitHubProject\E-Commerce App\E-Commerce.Web\bin\Debug\net8.0\DomainLayer.pdb

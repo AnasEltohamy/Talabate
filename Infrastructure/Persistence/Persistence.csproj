@@ -14,4 +14,8 @@
     <Folder Include="Data\Migrations\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\Core\DomainLayer\DomainLayer.csproj" />
+  </ItemGroup>
+
 </Project>
