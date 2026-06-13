@@ -1,0 +1,11 @@
+D:\GitHubProject\E-Commerce App\Core\DomainLayer\bin\Debug\net8.0\DomainLayer.deps.json
+D:\GitHubProject\E-Commerce App\Core\DomainLayer\bin\Debug\net8.0\DomainLayer.dll
+D:\GitHubProject\E-Commerce App\Core\DomainLayer\bin\Debug\net8.0\DomainLayer.pdb
+D:\GitHubProject\E-Commerce App\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHubProject\E-Commerce App\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfoInputs.cache
+D:\GitHubProject\E-Commerce App\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfo.cs
+D:\GitHubProject\E-Commerce App\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.csproj.CoreCompileInputs.cache
+D:\GitHubProject\E-Commerce App\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.dll
+D:\GitHubProject\E-Commerce App\Core\DomainLayer\obj\Debug\net8.0\refint\DomainLayer.dll
+D:\GitHubProject\E-Commerce App\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.pdb
+D:\GitHubProject\E-Commerce App\Core\DomainLayer\obj\Debug\net8.0\ref\DomainLayer.dll

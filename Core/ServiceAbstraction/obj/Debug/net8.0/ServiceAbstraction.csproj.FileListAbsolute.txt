@@ -1,0 +1,11 @@
+D:\GitHubProject\E-Commerce App\Core\ServiceAbstraction\bin\Debug\net8.0\ServiceAbstraction.deps.json
+D:\GitHubProject\E-Commerce App\Core\ServiceAbstraction\bin\Debug\net8.0\ServiceAbstraction.dll
+D:\GitHubProject\E-Commerce App\Core\ServiceAbstraction\bin\Debug\net8.0\ServiceAbstraction.pdb
+D:\GitHubProject\E-Commerce App\Core\ServiceAbstraction\obj\Debug\net8.0\ServiceAbstraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHubProject\E-Commerce App\Core\ServiceAbstraction\obj\Debug\net8.0\ServiceAbstraction.AssemblyInfoInputs.cache
+D:\GitHubProject\E-Commerce App\Core\ServiceAbstraction\obj\Debug\net8.0\ServiceAbstraction.AssemblyInfo.cs
+D:\GitHubProject\E-Commerce App\Core\ServiceAbstraction\obj\Debug\net8.0\ServiceAbstraction.csproj.CoreCompileInputs.cache
+D:\GitHubProject\E-Commerce App\Core\ServiceAbstraction\obj\Debug\net8.0\ServiceAbstraction.dll
+D:\GitHubProject\E-Commerce App\Core\ServiceAbstraction\obj\Debug\net8.0\refint\ServiceAbstraction.dll
+D:\GitHubProject\E-Commerce App\Core\ServiceAbstraction\obj\Debug\net8.0\ServiceAbstraction.pdb
+D:\GitHubProject\E-Commerce App\Core\ServiceAbstraction\obj\Debug\net8.0\ref\ServiceAbstraction.dll

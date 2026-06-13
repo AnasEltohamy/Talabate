@@ -1,0 +1,12 @@
+D:\GitHubProject\E-Commerce App\Infrastructure\Persistence\bin\Debug\net8.0\Persistence.deps.json
+D:\GitHubProject\E-Commerce App\Infrastructure\Persistence\bin\Debug\net8.0\Persistence.dll
+D:\GitHubProject\E-Commerce App\Infrastructure\Persistence\bin\Debug\net8.0\Persistence.pdb
+D:\GitHubProject\E-Commerce App\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHubProject\E-Commerce App\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+D:\GitHubProject\E-Commerce App\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+D:\GitHubProject\E-Commerce App\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+D:\GitHubProject\E-Commerce App\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.dll
+D:\GitHubProject\E-Commerce App\Infrastructure\Persistence\obj\Debug\net8.0\refint\Persistence.dll
+D:\GitHubProject\E-Commerce App\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.pdb
+D:\GitHubProject\E-Commerce App\Infrastructure\Persistence\obj\Debug\net8.0\ref\Persistence.dll
+D:\GitHubProject\E-Commerce App\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.csproj.AssemblyReference.cache

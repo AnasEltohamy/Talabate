@@ -1,0 +1,11 @@
+D:\GitHubProject\E-Commerce App\Core\Service\bin\Debug\net8.0\Service.deps.json
+D:\GitHubProject\E-Commerce App\Core\Service\bin\Debug\net8.0\Service.dll
+D:\GitHubProject\E-Commerce App\Core\Service\bin\Debug\net8.0\Service.pdb
+D:\GitHubProject\E-Commerce App\Core\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHubProject\E-Commerce App\Core\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+D:\GitHubProject\E-Commerce App\Core\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+D:\GitHubProject\E-Commerce App\Core\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+D:\GitHubProject\E-Commerce App\Core\Service\obj\Debug\net8.0\Service.dll
+D:\GitHubProject\E-Commerce App\Core\Service\obj\Debug\net8.0\refint\Service.dll
+D:\GitHubProject\E-Commerce App\Core\Service\obj\Debug\net8.0\Service.pdb
+D:\GitHubProject\E-Commerce App\Core\Service\obj\Debug\net8.0\ref\Service.dll
